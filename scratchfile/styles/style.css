@@ -1,0 +1,36 @@
+ a {
+            color: rgb(155, 78, 63);
+            text-decoration: none;
+        }
+    
+a:hover{
+            font-weight: bold;
+        }
+a:visited{
+            color:rgb(81, 1, 1);
+        }
+body {
+         font-family:Verdana, Geneva, Tahoma, sans-serif;
+         font-size: 17px;
+         color: black;
+         background-color: rgb(255, 255, 255);
+    }
+h3{
+    font-weight: bold;
+    text-align: center;
+}
+img{
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
+.bold{
+    font-weight: bold;
+}
+
+.center-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
